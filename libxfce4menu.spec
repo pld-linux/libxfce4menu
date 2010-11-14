@@ -1,12 +1,12 @@
 Summary:	Menu library for the Xfce desktop environment
 Summary(pl.UTF-8):	Biblioteka menu dla środowiska Xfce
 Name:		libxfce4menu
-Version:	4.6.1
+Version:	4.6.2
 Release:	1
 License:	LGPL v2
 Group:		X11/Libraries
 Source0:	http://www.xfce.org/archive/xfce-%{version}/src/%{name}-%{version}.tar.bz2
-# Source0-md5:	5dc9343885c2c6f931318b2a1cdcc9db
+# Source0-md5:	ff10cacb76803ee37159e3a43345f0d1
 URL:		http://www.xfce.org/projects/libraries/
 BuildRequires:	autoconf >= 2.50
 BuildRequires:	automake
